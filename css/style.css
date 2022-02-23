@@ -2,7 +2,6 @@
   width: 100%;
   position:relative;
   background-color: yellow;
-  
 }
 
 .item::before{
@@ -19,3 +18,4 @@
   right: 0;
   
 }
+
